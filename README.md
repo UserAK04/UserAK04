@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Kolhe</h1>
-<h3 align="center">A passionate <span style="color:purple;background-color:azure">Frontend</span> Developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://userak04.github.io/My-Portfolio/](https://userak04.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [Link](https://userak04.github.io/My-Portfolio/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, React, UI/UX**
 
