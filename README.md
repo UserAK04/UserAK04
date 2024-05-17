@@ -17,11 +17,11 @@
 
 <h3 align="center">Github Stats</h3>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akshay-0405&show_icons=true&locale=en" alt="userak04" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=userak04&show_icons=true&locale=en" alt="userak04" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-0405&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="userak04" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=userak04&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="userak04" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-0405&theme=dark" alt="userak04" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=userak04&theme=dark" alt="userak04" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
