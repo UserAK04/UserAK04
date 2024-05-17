@@ -1,17 +1,32 @@
-<h1 align="center">Hi 👋, I'm Akshay Kolhe</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h1 align="center"><img src="https://github.com/akshay-0405/akshay-0405/blob/main/Github%20Animated%20Banner.gif" width="100%"></img></h1>
 
-- 👨‍💻 All of my projects are available at [Link](https://userak04.github.io/My-Portfolio/)
+<img align="right" alt="Coding" width="300" src="https://github.com/akshay-0405/akshay-0405/blob/main/Github%20Profile%20Gif.gif">
 
-- 💬 Ask me about **HTML5, CSS3, JS, React, UI/UX**
+### Languages
 
-- 📫 How to reach me **akshaydadu9@gmail.com**
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript&theme=light)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)<br/>
+<br/>
+<br/>
 
-- 📄 Know about my experiences [https://userak04.github.io/My-Portfolio/1.1CapStone1(Resume%20Website)/index.html](https://userak04.github.io/My-Portfolio/1.1CapStone1(Resume%20Website)/index.html)
+### Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,bootstrap,tailwind,jquery,materialui,npm,vite)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,gcp,bash,figma,webflow,wordpress,git,github)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=idea,windows,linux,ubuntu,netlify,vercel,notion,postman,replit,sublime,vscode)](https://skillicons.dev)<br/>
+
+<h3 align="center">Github Stats</h3>
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=akshay-0405&show_icons=true&locale=en" alt="userak04" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-0405&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="userak04" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-0405&theme=dark" alt="userak04" /></p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/akisok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akisok" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/akshaydadu9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/akshaydadu9" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/akisok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akisok/" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/CaptainAK" target="blank"><img align="center" src="https://github.com/akshay-0405/akshay-0405/blob/main/coding-ninjas.png" height="30" width="30" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
