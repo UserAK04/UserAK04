@@ -1,19 +1,25 @@
 <h1 align="center"><img src="https://github.com/akshay-0405/akshay-0405/blob/main/Github%20Animated%20Banner.gif" width="100%"></img></h1>
 
-<img align="right" alt="Coding" width="300" src="https://github.com/akshay-0405/akshay-0405/blob/main/Github%20Profile%20Gif.gif">
+<p align="center">
+<img alt="Coding" width="300" src="https://github.com/akshay-0405/akshay-0405/blob/main/Dev.gif">
+</p>
 
-### Languages
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Freeman&size=50&pause=1000&color=0EB800&center=true&multiline=true&random=false&width=1000&height=350&lines=🌟Here's+a+Quote!🌟;%22Code+is+read+much+more+often+than+it+is+written.%22;Now+a+Funny+one😅%2C;A+SQL+query+walks+into+a+bar.;He+approaches+two+tables+and+says%2C;%22Mind+if+I+join+you%22😆)](https://git.io/typing-svg)
+
+<h3 align="center"> Language </h3>
+<h3 align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript&theme=light)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)<br/>
-<br/>
-<br/>
+</h3>
 
-### Technologies
-
+<h3 align="center"> Technologies </h3>
+<h6 align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,bootstrap,tailwind,jquery,materialui,npm,vite)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,gcp,bash,figma,webflow,wordpress,git,github)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=idea,windows,linux,ubuntu,netlify,vercel,notion,postman,replit,sublime,vscode)](https://skillicons.dev)<br/>
+</h6>
 
 <h3 align="center">Github Stats</h3>
 
