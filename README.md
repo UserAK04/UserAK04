@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Freeman&size=50&pause=1000&color=0EB800&center=true&multiline=true&random=false&width=1000&height=350&lines=🌟Here's+a+Quote!🌟;%22Code+is+read+much+more+often+than+it+is+written.%22;Now+a+Funny+one😅%2C;A+SQL+query+walks+into+a+bar.;He+approaches+two+tables+and+says%2C;%22Mind+if+I+join+you%22😆)](https://git.io/typing-svg)
 
-<h3 align="center"> Language </h3>
+<h3 align="center"> Coding Langs </h3>
 <h3 align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript&theme=light)](https://skillicons.dev)<br/>
