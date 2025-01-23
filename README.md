@@ -27,7 +27,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=userak04&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="userak04" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=userak04&theme=dark" alt="userak04" /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=userak04&theme=dark" alt="userak04" /></p> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
