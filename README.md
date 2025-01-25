@@ -9,7 +9,7 @@
 <h3 align="center"> Coding Langs </h3>
 <h3 align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript&theme=light)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript&theme=light)](https://skillicons.dev)<br/>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)](https://skillicons.dev)<br/>
 </h3>
 
